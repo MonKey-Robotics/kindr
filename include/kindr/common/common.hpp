@@ -33,7 +33,7 @@
 #include <iostream>
 #include <limits>
 #include <random>
-#include <Eigen/Core>
+#include <eigen3/Eigen/Core>
 
 namespace kindr {
 

@@ -31,7 +31,7 @@
 #include <gtest/gtest.h>
 #include "source_file_pos.hpp"
 #include "assert_macros_eigen.hpp"
-#include <Eigen/Core>
+#include <eigen3/Eigen/Core>
 
 namespace kindr {
 

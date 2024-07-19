@@ -28,7 +28,7 @@
 
 #pragma once
 
-#include <Eigen/Core>
+#include <eigen3/Eigen/Core>
 
 #include "kindr/math/LinearAlgebra.hpp"
 #include "kindr/common/common.hpp"

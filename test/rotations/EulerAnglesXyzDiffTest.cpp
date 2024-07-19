@@ -30,7 +30,7 @@
 #include "kindr/common/gtest_eigen.hpp"
 #include "kindr/common/common.hpp"
 
-#include <Eigen/Core>
+#include <eigen3/Eigen/Core>
 #include <gtest/gtest.h>
 #include <iostream>
 

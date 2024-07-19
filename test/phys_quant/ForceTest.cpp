@@ -28,7 +28,7 @@
 
 #include <iostream>
 
-#include <Eigen/Core>
+#include <eigen3/Eigen/Core>
 
 #include <gtest/gtest.h>
 

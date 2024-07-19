@@ -30,7 +30,7 @@
 
 #include <cmath>
 
-#include <Eigen/Geometry>
+#include <eigen3/Eigen/Geometry>
 
 #include "kindr/common/common.hpp"
 #include "kindr/common/assert_macros_eigen.hpp"

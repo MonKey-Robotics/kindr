@@ -31,7 +31,7 @@
 
 #include <cmath>
 #include "assert_macros.hpp"
-#include <Eigen/Core>
+#include <eigen3/Eigen/Core>
 
 #include "common.hpp"
 

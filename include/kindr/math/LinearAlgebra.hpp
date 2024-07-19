@@ -27,7 +27,7 @@
 */
 #pragma once
 
-#include <Eigen/SVD>
+#include <eigen3/Eigen/SVD>
 
 namespace kindr {
 
